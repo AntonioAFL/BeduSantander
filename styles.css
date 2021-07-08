@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Alegreya:900|Open+Sans|Slabo+27px&display=swap");
+
+body {
+  background-color: #fffbf7;
+}
+h1 {
+  color: #025157;
+  font-family: 'Alegreya', sans-serif;
+}
+h4 {
+  color: #46484c;
+}
+p {
+  color: #8b8b8bcc;
+}
+button {
+  color: #fff;
+  background-color: #025157;
+}
